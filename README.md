@@ -20,8 +20,7 @@ A WhatsApp bot built with Baileys, featuring:
 - Tons of custom commands I’ve built myself  
 
 ### ⚙️ Simple API
-API that converts plain text into **handwritten text on folio paper**.  
-Deployable on **Vercel** with `ImageMagick` and custom fonts.  
+A simple API I provide for WhatsApp bots. API downloader, TikTok, Instagram, YouTube, and other sharing needs.
 
 ### 🛒 Raden Store
 My personal brand: *Simple, Smart, Fast.*  
