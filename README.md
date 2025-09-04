@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey, I'm Raden!
 
-<!--
-**radenrudun/radenrudun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Student | Web Developer | Bot Builder*  
+I love tinkering with **WhatsApp Bots**, **Text-to-Handwriting APIs**, and **Web Development**.  
+For me, coding isn’t just a hobby – it’s how I turn small ideas into something awesome!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: JavaScript (Node.js), Python, HTML, CSS  
+- **Frameworks & Tools**: Next.js, Express.js, MongoDB, Baileys, Termux  
+- **Other**: GitHub, Vercel, ImageMagick  
+
+---
+
+## 🌟 Projects
+### 🤖 Raden Bot
+A WhatsApp bot built with Baileys, featuring:  
+- Anti-call, Auto-welcome, Auto-leave  
+- Global Lists, Premium Users, Rent-a-Bot system  
+- Tons of custom commands I’ve built myself  
+
+### ✍️ Nulis API
+API that converts plain text into **handwritten text on folio paper**.  
+Deployable on **Vercel** with `ImageMagick` and custom fonts.  
+
+### 🛒 Raden Store
+My personal brand: *Simple, Smart, Fast.*  
+(Next up: building a full-stack e-commerce site 🚀)
+
+---
+
+## 📊 GitHub Stats
+![Raden's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenrudun&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radenrudun&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+- WhatsApp Bot: *Raden Bot*  
+- GitHub: [@radenrudun](https://github.com/radenrudun)  
+- Coming soon: [Raden Store Website](#)
+
+---
+
+✨ *“Coding is like coffee: sometimes bitter, but it always keeps you awake and moving forward.”* ☕
