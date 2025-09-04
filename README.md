@@ -7,9 +7,8 @@ For me, coding isn’t just a hobby – it’s how I turn small ideas into somet
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: JavaScript (Node.js), Python, HTML, CSS  
-- **Frameworks & Tools**: Next.js, Express.js, MongoDB, Baileys, Termux  
-- **Other**: GitHub, Vercel, ImageMagick  
+- **Languages**: JavaScript (Node.js), HTML, CSS  
+- **Other**: GitHub, Vercel
 
 ---
 
@@ -20,7 +19,7 @@ A WhatsApp bot built with Baileys, featuring:
 - Global Lists, Premium Users, Rent-a-Bot system  
 - Tons of custom commands I’ve built myself  
 
-### ✍️ Nulis API
+### ⚙️ Simple API
 API that converts plain text into **handwritten text on folio paper**.  
 Deployable on **Vercel** with `ImageMagick` and custom fonts.  
 
@@ -40,7 +39,8 @@ My personal brand: *Simple, Smart, Fast.*
 ## 🌐 Connect with Me
 - WhatsApp Bot: *Raden Bot*  
 - GitHub: [@radenrudun](https://github.com/radenrudun)  
-- Coming soon: [Raden Store Website](#)
+- Website: [Raden Store](https://wwww.radenstore.my.id)
+- Portfolio: [Raden] (https://www.radenstore.my.id/portofolio/)
 
 ---
 
